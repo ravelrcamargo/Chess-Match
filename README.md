@@ -1,2 +1,2 @@
 # Chess-Match
-PROJETO JOGO DE XADREZ JAVA
+Projeto jogo de xadrez em java
